@@ -43,3 +43,56 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)  
 本文採用 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 授權釋出
 (This repository is forked from https://github.com/f2etw/jobs)
+
+--- 
+
+## 台灣區塊鏈產業職缺列表（更新於 2019/05/21）
+### 交易所
+
+- [香港商環球通證有限公司(籌備處)＜公司簡介及所有工作機會＞─104人力銀行](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=444a426b34363e6730323a63383e361972929296b42363e6785j52&jobsource=open&fbclid=IwAR1MkKDHGqD7uAuXKkV0wL_IX4y0aohnmS3JDTsqfXvyCFCHJlJ56USfHlY)
+- [BitoPro - 【幣託強力徵才中】 幣託正在打造一支超強隊伍，徵求高手一起打國際仗 💪... | Facebook](https://www.facebook.com/bitopro.bito/posts/457953724712258/)
+- [王牌數位創新股份有限公司─104人力銀行](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=454f4770393b436c35373f683d433b1e12e2e2e72454b4b2634j53&fbclid=IwAR0yuXZ8J0FHnRGhWxK12OdT1Re50AkQ4ccD833B_fDK5uqUtcpxHGGR91r)
+- [泰德陽光集團 - TIDEiSun Group](https://tideisun.com/)
+- [市場行銷資深專員 | Marketing Sr. Specialist | 現代財富科技有限公司 | 台北市信義區 - 104人力銀行](https://m.104.com.tw/job/6knac?jobsource=m104)
+- [JOYSO－104人力銀行](https://www.104.com.tw/jobs/search/?ro=0&keyword=塞席爾商共&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc&fbclid=IwAR2dhsx_3DPSv36dVaVuowV34RuPwgJPHpR8xPfIh72zlcvaqiPAgcGtTRk)
+- [Openings at XREX](https://xrex.breezy.hr/)
+- [Jobs - Bitfinex Careers](https://bitfinex.recruitee.com/)
+- [CoinFLEX - First Physically Delivered Cryptocurrency Futures Exchange](https://www.coinflex.com) 
+
+### 區塊鏈
+
+- [Blockchain Engineer - Mithril 秘銀找到熱血沸騰的新創工作](https://www.yourator.co/companies/Mithril/jobs/4451)
+- [BSOS - 優質新創人才招募中](https://www.yourator.co/companies/BSOS)
+- [GPUMINE POOL](https://gpumine.org) 
+- [Unity Chain](https://www.unitychain.io)
+- [Poseidon Network - 104 人力銀行](https://poseidon.network/)
+- [ThunderCore_霹靂幣有限公司 - 104 人力銀行](http://tinyurl.com/y5zx2v27)
+
+### 監管科技
+
+- [KryptoGO Co., Ltd. 職缺 – 企業徵才職缺 – CakeResume 找工作](https://www.cakeresume.com/companies/kryptogo)
+
+### 金融相關
+
+- [Decore - Software Engineer @Taipei](https://github.com/EtherTW/jobs/issues/44)
+- [CYBAVO - Secure and usable cryptocurrency wallet for daily business operation](https://cybavo.com)
+ 
+### DAPP
+
+- [仙女座](https://www.facebook.com/photo.php?fbid=2265777106841459&set=a.1034336753318840&type=3&hc_location=ufi)
+
+### Blockchain SI
+
+- [KryptoGO Co., Ltd. 職缺 – 企業徵才職缺 – CakeResume 找工作](https://www.cakeresume.com/companies/kryptogo)
+- [偉康科技](https://www.webcomm.com.tw/recruit.html)
+- [Pelith Job Description · GitHub](https://gist.github.com/artistic709/afdb665bd79256c73c7413a3d7e84432?fbclid=IwAR0Gi89MtATRABAm7ZJjsy570-BfSTQsglkqUVbX9fEX9WYvEFOt83VM2nQ)
+- [Skymizer 勇者召集令 2019](http://blog.skymizer.com/jobs2019)
+
+### 媒體
+
+- [BlockTempo 動區動趨](https://blocktempo.com)
+
+### 更多
+
+- https://github.com/APBCD/jobs/issues
+- https://github.com/EtherTW/jobs/issues
