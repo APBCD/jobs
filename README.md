@@ -80,6 +80,7 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 ### DAPP
 
 - [仙女座](https://www.facebook.com/photo.php?fbid=2265777106841459&set=a.1034336753318840&type=3&hc_location=ufi)
+- [魚王團隊(微進科技) - DApp遊戲、工具、第三方節點](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4b5149723b3d456e3739416a3f453d208303030724863517119j98)
 
 ### Blockchain SI
 
