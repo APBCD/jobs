@@ -67,6 +67,7 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 - [Unity Chain](https://www.unitychain.io)
 - [Poseidon Network - 104 人力銀行](https://poseidon.network/)
 - [ThunderCore_霹靂幣有限公司 - 104 人力銀行](http://tinyurl.com/y5zx2v27)
+- [Bincentive - Blockchain investment platform](https://bincentive.com/join-us)
 
 ### 監管科技
 
@@ -76,6 +77,7 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 - [Decore - Software Engineer @Taipei](https://github.com/EtherTW/jobs/issues/44)
 - [CYBAVO - Secure and usable cryptocurrency wallet for daily business operation](https://cybavo.com)
+- [Bincentive - Blockchain investment platform](https://bincentive.com/join-us)
 
 ### DAPP
 
