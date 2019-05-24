@@ -46,7 +46,7 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 ---
 
-## 台灣區塊鏈產業職缺列表（更新於 2019/05/21）
+## 台灣區塊鏈產業職缺列表（更新於 2019/05/24）
 ### 交易所
 
 - [香港商環球通證有限公司 | GlobalSTOx | yourator](https://www.yourator.co/companies/GlobalSTOX)
@@ -57,7 +57,8 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 - [JOYSO－104人力銀行](https://www.104.com.tw/jobs/search/?ro=0&keyword=塞席爾商共&order=1&asc=0&page=1&mode=s&jobsource=2018indexpoc&fbclid=IwAR2dhsx_3DPSv36dVaVuowV34RuPwgJPHpR8xPfIh72zlcvaqiPAgcGtTRk)
 - [Openings at XREX](https://xrex.breezy.hr/)
 - [Jobs - Bitfinex Careers](https://bitfinex.recruitee.com/)
-- [CoinFLEX - First Physically Delivered Cryptocurrency Futures Exchange](https://www.coinflex.com)
+- [CoinFLEX - First Physically Delivered Cryptocurrency Futures Exchange](https://www.coinflex.com) 
+- [亞太易安特科技有限公司＜公司簡介及所有工作機會＞─104人力銀行](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=434d456e3739416a33353d663b41391c92c2c2c6e436f5f2654j51&jobsource=2018indexpoc)
 
 ### 區塊鏈
 
