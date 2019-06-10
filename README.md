@@ -74,6 +74,10 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 - [KryptoGO Co., Ltd. 職缺 – 企業徵才職缺 – CakeResume 找工作](https://www.cakeresume.com/companies/kryptogo)
 
+### 數據隱私
+
+- [Dimension 徵求前端工程師(可遠程) ](https://github.com/APBCD/jobs/issues/13) 
+
 ### 金融相關
 
 - [Decore - Software Engineer @Taipei](https://github.com/EtherTW/jobs/issues/44)
