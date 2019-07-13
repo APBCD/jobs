@@ -46,7 +46,7 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 ---
 
-## 台灣區塊鏈產業職缺列表（更新於 2019/05/24）
+## 台灣區塊鏈產業職缺列表（更新於 2019/07/13）
 ### 交易所
 
 - [香港商環球通證有限公司 | GlobalSTOx | yourator](https://www.yourator.co/companies/GlobalSTOX)
@@ -104,3 +104,4 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 - https://github.com/APBCD/jobs/issues
 - https://github.com/EtherTW/jobs/issues
+- https://hiblockchain.tw
